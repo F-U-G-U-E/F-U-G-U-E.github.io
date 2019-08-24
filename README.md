@@ -2,7 +2,10 @@
 
 ## EDUCATION
 
-**Tsinghua University**
+<p align="left"><strong>Tsinghua University</strong></p>
+<p align="right"><strong>Tsinghua University</strong></p>
+
+
 
 *Bachelor of Engineering, Major in Automation, Minor in Statistics*
 
