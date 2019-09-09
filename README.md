@@ -16,8 +16,12 @@
 
 ## HONORS AND AWARDS
 
-<iframe width='320' height='36' scrolling='no' frameborder='0' allowTransparency='true' src="http://www.showaddress.net/ShowIP.asp?size=12&lineht=18&color=00FFFF&bgcolor=000000&type=3"></iframe>
-
-
-
-<iframe width="1800" height="80" frameborder="0" scrolling="no" src="http://www.cz88.net/ip/viewip468.aspx"></iframe>
+<div class="text clearfix" style="text-align:center;">
+<span style="float:right;">居右</span><span style="float:left;">居左</span>居中</div>
+<table width="" border="0" cellpadding="0" cellspacing="1" bgcolor="#CCCCCC">
+<tr>
+<td bgcolor="#FFFFFF" align="left">居左</td>
+<td bgcolor="#FFFFFF" align="center">居中</td>
+<td bgcolor="#FFFFFF" align="right">居右</td>
+</tr>
+</table>
