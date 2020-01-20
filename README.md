@@ -1,10 +1,13 @@
 # Wenxuan Bao
 
+Email: <a href="mailto:baowenxuan@gmail.com">baowenxuan@gmail.com</a>
+
 ## EDUCATION
 
-<p align="left"><strong>Tsinghua University</strong></p>
-<p align="right"><strong>Tsinghua University</strong></p>
-
+<div class="text clearfix" style="text-align:center;">
+    <span style="float:left;">Tsinghua University</span>
+    <span style="float:right;">Beijing, China</span>
+</div>
 
 
 *Bachelor of Engineering, Major in Automation, Minor in Statistics*
@@ -16,12 +19,9 @@
 
 ## HONORS AND AWARDS
 
-<div class="text clearfix" style="text-align:center;">
-<span style="float:right;">居右</span><span style="float:left;">居左</span>居中</div>
-<table width="" border="0" cellpadding="0" cellspacing="1" bgcolor="#CCCCCC">
-<tr>
-<td bgcolor="#FFFFFF" align="left">居左</td>
-<td bgcolor="#FFFFFF" align="center">居中</td>
-<td bgcolor="#FFFFFF" align="right">居右</td>
-</tr>
-</table>
+- 
+
+
+
+</div>
+
