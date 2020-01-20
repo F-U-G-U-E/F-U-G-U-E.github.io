@@ -8,13 +8,15 @@ Email: <a href="mailto:baowenxuan@gmail.com">baowenxuan@gmail.com</a>
     <span style="float:left;"><strong>Tsinghua University</strong></span>
     <span style="float:right;">Beijing, China</span>
     <br/>
+    <em>Bachelor of Engineering, Major in Automation, Minor in Statistics</em>
+    
 </div>
 
 
-*Bachelor of Engineering, Major in Automation, Minor in Statistics*
+
 
 - Major GPA: **3.90/4.00**, Ranking: **2/166**
-- Minor GPA: 4.00/4.00
+- Minor GPA: 4.00/4.00 (with all A+/A)
 - Courses with grades A+/A: 
 - Study Abroad: Exchange in UC Santa Barbara in Fall 2018, get GPA 4.00/4.00
 
@@ -23,6 +25,4 @@ Email: <a href="mailto:baowenxuan@gmail.com">baowenxuan@gmail.com</a>
 - 
 
 
-
-</div>
 
