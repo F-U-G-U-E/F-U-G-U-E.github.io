@@ -5,8 +5,9 @@ Email: <a href="mailto:baowenxuan@gmail.com">baowenxuan@gmail.com</a>
 ## EDUCATION
 
 <div class="text clearfix" style="text-align:center;">
-    <span style="float:left;">Tsinghua University</span>
+    <span style="float:left;"><strong>Tsinghua University</strong></span>
     <span style="float:right;">Beijing, China</span>
+    <br/>
 </div>
 
 
